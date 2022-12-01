@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "953656016553",
+    "project_id": "truyen3k-1eff3",
+    "storage_bucket": "truyen3k-1eff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953656016553:android:a24e4c2356b0885d5b73b8",
+        "android_client_info": {
+          "package_name": "com.dtt.truyen3k"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953656016553-o68a8448thir1c5qtnkuj2eb1vp2sk3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPlaXGjErBJ27pEnc4sdlYbEA4iTBuKTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953656016553-o68a8448thir1c5qtnkuj2eb1vp2sk3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "953656016553-t1tjjr5fedpaq7skmh6655s27vg03nrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.novelAppClient"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
